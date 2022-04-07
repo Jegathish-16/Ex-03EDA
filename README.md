@@ -75,6 +75,7 @@ sns.heatmap(df.corr(),annot=True)
 ![output](o5.png)
 ## Null values With Outliers:
 ![output](o6.png)
+
 ![output](o7.png)
 ## Replacing the Null values:
 ![output](o8.png)
@@ -83,11 +84,15 @@ sns.heatmap(df.corr(),annot=True)
 ## Ploting Graphs:
 ![output](o11.png)
 ![output](o12.png)
+
 ![output](o13.png)
 ## After Replacing Null Values:
 ![output](o14.png)
+
 ![output](o15.png)
+
 ![output](o16.png)
+
 ![output](o17.png)
 
 ![output](o18.png)
