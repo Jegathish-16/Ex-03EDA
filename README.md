@@ -79,7 +79,9 @@ sns.heatmap(df.corr(),annot=True)
 ![output](o7.png)
 ## Replacing the Null values:
 ![output](o8.png)
+
 ![output](o9.png)
+
 ![output](o10.png)
 ## Ploting Graphs:
 ![output](o11.png)
