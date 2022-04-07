@@ -72,6 +72,7 @@ sns.heatmap(df.corr(),annot=True)
 ![output](o3.png)
 ## Checking Null Values:
 ![output](o4.png)
+
 ![output](o5.png)
 ## Null values With Outliers:
 ![output](o6.png)
