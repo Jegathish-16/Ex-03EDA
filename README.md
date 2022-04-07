@@ -89,9 +89,14 @@ sns.heatmap(df.corr(),annot=True)
 ![output](o15.png)
 ![output](o16.png)
 ![output](o17.png)
+
 ![output](o18.png)
+
 ![output](o19.png)
 ## Correlation between data's:
 ![output](o20.png)
 ## HeatMap:
 ![output](o21.png)
+
+## Result:
+Thus the EDA on the given data set is sucessfully done.
